@@ -1,6 +1,6 @@
 {
     "faction": "discord.gg/placequebec",
-    "contact": "discord.gg/placequebec - sourack#0",
+    "contact": "https://discord.gg/placequebec - sourack#0",
     "templates": [
         {
             "name": "Principal",
@@ -10,10 +10,15 @@
             "priorityMaskSources": [
                 "https://github.com/Sourack/rplace-placequebec2023/blob/main/principal.png?raw=true"
             ],
-            "x": 453,
-            "y": 130
+            "x": 953,
+            "y": 630
         }
     ],
-    "whitelist": [],
+    "whitelist": [
+        {
+            "name": "Argentine",
+            "url": "https://rentry.co/PlaceArg/raw"
+        }
+    ],
     "blacklist": []
 }
