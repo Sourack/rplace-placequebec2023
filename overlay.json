@@ -1,0 +1,17 @@
+{
+    "faction": "discord.gg/placequebec",
+    "contact": "discord.gg/placequebec - sourack#0",
+    "templates": [
+        {
+            "name": "Principal",
+            "sources": [
+                "https://github.com/sourack/rplace-placequebec2023/images/principal.png"
+            ],
+            "priorityMaskSources": [],
+            "x": 453,
+            "y": 130
+        }
+    ],
+    "whitelist": [],
+    "blacklist": []
+}
