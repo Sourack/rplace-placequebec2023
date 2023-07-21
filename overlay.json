@@ -7,7 +7,9 @@
             "sources": [
                 "https://raw.githubusercontent.com/Sourack/rplace-placequebec2023/d34c691021de54e02c796eaf7a3b6aee98c5df88/principal.png"
             ],
-            "priorityMaskSources": [],
+            "priorityMaskSources": [
+                "https://raw.githubusercontent.com/Sourack/rplace-placequebec2023/d34c691021de54e02c796eaf7a3b6aee98c5df88/principal.png"
+            ],
             "x": 453,
             "y": 130
         }
